@@ -1,0 +1,95 @@
+        *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Roboto', sans-serif;
+        background: #E5E5E5;
+        }
+        .symbol-yoga{
+        margin: 195px auto 122px;
+        display: block;
+        }
+        .username{
+       margin: 0 auto 21px;
+        }  
+
+        .password{
+        margin:0 auto 35px;
+        }
+
+        .forgot-password {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        text-align: right;
+        color: #000000;
+        text-decoration: none;
+        margin:0 40px 38px 0;
+        display:block ;
+        }
+
+        .Login{
+        width: 133px;
+        height: 46px;
+        margin:35px auto 21px;
+        background: #323232;
+        box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+        border-radius: 10px;
+        display: block;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 18px;
+        color: #FFFFFF;     
+        }
+        
+        .sign-up{
+        width: 240px;
+        height: 18px;
+        margin:21px 87px 62px 87px;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 18px;
+        color: #969696;
+        text-decoration: none;
+        display: block;
+        }
+
+        p{
+        width: 128px;
+        height: 29px;
+        margin:0 auto 18px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 18px;
+        line-height: 21px;
+        text-align: center;
+        color: #000000;
+        }
+
+        input{
+        padding:15px 0 14px 19px;
+        width: 321px;
+        height: 46px;
+        display: block;
+        border-radius: 10px;
+        background-color:#F6F6F6 ;
+        color:#969696;
+        font-size: 13px;
+        border:none;
+        }   
+
+        .redes{
+        width: 145px;
+        height: 52px;
+        text-align: center;
+        margin:12px auto 0;
+               
+        }
+
+        .dots{
+            margin-right: 10px;
+            margin-left: 10px;
+         }
